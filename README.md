@@ -29,6 +29,6 @@ Take a look at some of the AI-for-good and data-for-good projects I've been invo
 
 
 ## Contact
-📧 [Email]
+📧 [Email](mailto:roscowemma@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/emmaroscow/)  
 🐦 [X (Twitter)](https://twitter.com/EmmaRoscow)
