@@ -9,11 +9,11 @@ I'm Emma, a machine learning engineer, data scientist and neuroscientist based i
 
 Take a look at some of the AI-for-good and data-for-good projects I've been involved in
 
-* *World Data League 2023*: my team (AI Wonder Girls) won first prize for our solution to promoting sustainable energy communities among residents of a Belgian city, using data to fight energy poverty and reduce carbon footprints. In earlier phases of the competition, we also provided solutions for understanding the biodiveristy of marine species and modelling traffic movements to reduce reliance on cars.  
+* **World Data League 2023**: my team (AI Wonder Girls) won first prize for our solution to promoting sustainable energy communities among residents of a Belgian city, using data to fight energy poverty and reduce carbon footprints. In earlier phases of the competition, we also provided solutions for understanding the biodiveristy of marine species and modelling traffic movements to reduce reliance on cars.  
   🔗 [Code](https://github.com/EmmaRoscow/world-data-league-2023)  
   🔗 [3-minute presentation](https://www.youtube.com/watch?v=DR7tSsBc3Dc&t=5106s)
 
-* *DataKind UK & Evidence for Development*: Evidence for Development is an NGO that maps data-driven "livelihood zones" to a country to improve the quality of interventions for development and disaster response. Mapping livelihood zones is very labour-intensive, so we used open-source data (remote sensing, transport and other geospatial data) to prototype an automated way to replace the first stage of this process, potentially speeding it up by a year or more per country.  
+* **DataKind UK & Evidence for Development**: Evidence for Development is an NGO that maps data-driven "livelihood zones" to a country to improve the quality of interventions for development and disaster response. Mapping livelihood zones is very labour-intensive, so we used open-source data (remote sensing, transport and other geospatial data) to prototype an automated way to replace the first stage of this process, potentially speeding it up by a year or more per country.  
   🔗 [Blog post about the project](https://efd.org/blogs/can-machine-learning-be-used-to-help-rural-communities-adapt-to-climate-change/)
 
 
@@ -25,6 +25,16 @@ Take a look at some of the AI-for-good and data-for-good projects I've been invo
 
 * Inspired by the surprising links between reinforcement learning in brains and reinforcement learning as a branch of artificial intelligence, I also published a paper on how researchers in both fields might benefit from the advances in the other field.  
   🔗 [arXiv paper](https://arxiv.org/abs/2109.10034)
+
+
+## Awards & prizes
+
+This may be immodest of me, and some of these awards are now quite old, but I am proud of them because they show off some of the skills that I am most proud of: my research skills, and my ability to communicate complex topics to different audiences.
+
+* Winner, World Data League, June 2023
+* Best poster, Population Health Science Institute PhD Symposium, University of Bristol, April 2018
+* Best 1st year PhD talk, School of Physiology, Pharmacology and Neuroscience Away Day, University of Bristol, July 2017
+* Simon Heywood Award - Third Year Project Prize for best undergraduate final year project, Department of Psychology, University of Warwick, June 2013
 
 
 
