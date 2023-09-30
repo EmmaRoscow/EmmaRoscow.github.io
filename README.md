@@ -19,9 +19,9 @@ Take a look at some of the AI-for-good and data-for-good projects I've been invo
 
 ## Neuroscience & neuroAI
 
-I was awarded my PhD in Neural Dynamics in 2020, and I completed two postdocs in computational neuroscience. My academic interests are in how the brain uses "downtime" (sleep, and rest when otherwise not actively engaged in behaviour) to generate spontaneous activity that supports interesting cognitive phenomena such as learning, forgetting, and generalising.
+I was awarded my PhD in Neural Dynamics in 2020, and completed two postdocs in computational neuroscience. My academic interests are in how the brain uses "downtime" (sleep, and rest when otherwise not actively engaged in behaviour) to generate spontaneous activity that supports interesting cognitive phenomena such as learning, forgetting, and generalising. These are also some of the big challenges in machine learning at the moment too: while techniques that are known to work in deep neural networks can serve as hypotheses for biological computational brain function, understanding better how nature has solved such problems can inspire more efficient machine learning algorithms.
 
-* In my PhD I used reinforcement learning models to understand how the brain "at rest" (sleeping, or quietly resting) contributes to offline learning and memory processes. I found that reward prediction errors are likely to influence which brain activity gets replayed during offline states.  
+* In my PhD I used reinforcement learning models to understand how the brain "at rest" (sleeping, or quietly resting) contributes to offline learning and memory processes. I found that reward prediction errors are likely to influence which brain activity gets replayed during offline states.  (An update to the preprint is forthcoming.)
   📎 [bioRXiv paper](https://www.biorxiv.org/content/10.1101/716290v1.abstract)  
   📎 [Code for identifying repeated patterns of brain activity ("replay") using naive Bayes](https://github.com/EmmaRoscow/ReplayBayesianDecoder)
 
@@ -33,7 +33,7 @@ I have reviewed papers for Journal of Neuroscience, NeurIPS workshop on Biologic
 
 ## Awards & prizes
 
-This may be immodest of me, and some of these awards are now quite old, but I am proud of them because they show off some of the skills that I am most proud of: my research skills, and my ability to communicate complex topics to different audiences.
+This is the immodel part. Some of these awards are now quite old, but I appreciate them because they show off some of the skills that I am most proud of: my research skills, and my ability to communicate complex topics to different audiences.
 
 * Winner, World Data League, June 2023
 * Best poster, Population Health Science Institute PhD Symposium, University of Bristol, April 2018
