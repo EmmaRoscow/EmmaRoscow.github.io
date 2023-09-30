@@ -19,7 +19,7 @@ Take a look at some of the AI-for-good and data-for-good projects I've been invo
 
 ## Neuroscience & neuroAI
 
-I completed my PhD in Neural Dynamics in 2019, and completed two postdocs in computational neuroscience. My academic interests are in how the brain uses "downtime" (sleep, and rest when otherwise not actively engaged in behaviour) to generate spontaneous activity that supports interesting cognitive phenomena such as learning, forgetting, and generalising.
+I was awarded my PhD in Neural Dynamics in 2020, and I completed two postdocs in computational neuroscience. My academic interests are in how the brain uses "downtime" (sleep, and rest when otherwise not actively engaged in behaviour) to generate spontaneous activity that supports interesting cognitive phenomena such as learning, forgetting, and generalising.
 
 * In my PhD I used reinforcement learning models to understand how the brain "at rest" (sleeping, or quietly resting) contributes to offline learning and memory processes. I found that reward prediction errors are likely to influence which brain activity gets replayed during offline states.  
   📎 [bioRXiv paper](https://www.biorxiv.org/content/10.1101/716290v1.abstract)  
