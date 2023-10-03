@@ -7,7 +7,7 @@ I'm Emma, a machine learning engineer, data scientist and neuroscientist based i
 
 ## AI for good
 
-Take a look at some of the AI-for-good and data-for-good projects I've been involved in
+Take a look at some of the AI-for-good and data-for-good projects I've been involved in.
 
 * **World Data League 2023**: my team (AI Wonder Girls) won first prize for our solution to promoting sustainable energy communities among residents of a Belgian city, using data to fight energy poverty and reduce carbon footprints. In earlier phases of the competition, we also provided solutions for understanding the biodiveristy of marine species and modelling traffic movements to reduce reliance on cars.  
   📎 [Code](https://github.com/EmmaRoscow/world-data-league-2023)  
@@ -16,7 +16,7 @@ Take a look at some of the AI-for-good and data-for-good projects I've been invo
 * **DataKind UK & Evidence for Development**: Evidence for Development is an NGO that maps data-driven "livelihood zones" to a country to improve the quality of interventions for development and disaster response. Mapping livelihood zones is very labour-intensive, so we used open-source data (remote sensing, transport and other geospatial data) to prototype an automated way to replace the first stage of this process, potentially speeding it up by a year or more per country.  
   📎 [Blog post about the project](https://efd.org/blogs/can-machine-learning-be-used-to-help-rural-communities-adapt-to-climate-change/)
 
-* **Omdena & GPSDD**: GPSDD wanted to use open-source satellite imagery to predict the yield of several crops crucial to the country's food security. Limited ground-truth data was a substantial limitation, so we trained a convolutional neural network on data from similar countries with better data and fine-tuned it on Senegal, combined with a random forest predictor to predict the yield at the end of the season. Users can use the forecasts to anticipate when poor crop yields might cause food insecurity, and take appropriate action.  
+* **Omdena & GPSDD**: GPSDD wanted to use open-source satellite imagery to predict the yield of several crops crucial to Senegal's food security. Limited ground-truth data was a substantial limitation, so we trained a convolutional neural network on data from similar countries with better data and fine-tuned it on Senegal, combined with a random forest predictor to predict the yield at the end of the season. Users can use the forecasts to anticipate when poor crop yields might cause food insecurity, and take appropriate action.  
   📎 [Project summary](https://omdena.com/projects/foodsecurity-ai/)
 
 
