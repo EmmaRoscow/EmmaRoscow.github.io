@@ -4,7 +4,7 @@ Hi there 👋
 
 I'm Emma, a machine learning engineer, data scientist and neuroscientist based in Barcelona ☀️
 
-I'm currently a Senior Machine Learning Scientist at [Ecovadis](ecovadis.com), building tools to help our sustainability analysts evaluate corporate sustainability around the world.
+I'm currently a Senior Machine Learning Scientist at [EcoVadis](ecovadis.com), building tools to help our sustainability analysts evaluate corporate sustainability around the world. I use a variety of techniques including time series modelling, causal inference, and model explainability to improve the way our business works.
 
 
 ## AI for good
