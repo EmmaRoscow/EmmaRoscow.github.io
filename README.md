@@ -26,7 +26,7 @@ Take a look at some of the AI-for-good and data-for-good projects I've been invo
 
 I was awarded my PhD in Neural Dynamics in 2020, and completed two postdocs in computational neuroscience. My academic interests are in how the brain uses "downtime" (sleep, and rest when otherwise not actively engaged in behaviour) to generate spontaneous activity that supports interesting cognitive phenomena such as learning, forgetting, and generalising. These are also some of the big challenges in machine learning at the moment too: while techniques that are known to work in deep neural networks can serve as hypotheses for biological computational brain function, understanding better how nature has solved such problems can inspire more efficient machine learning algorithms.
 
-* In my PhD I used reinforcement learning models to understand how the brain "at rest" (sleeping, or quietly resting) contributes to offline learning and memory processes. I found that reward prediction errors are likely to influence which brain activity gets replayed during offline states.
+* In my PhD I used reinforcement learning models to understand how the brain "at rest" (sleeping, or quietly resting) contributes to offline learning and memory processes. I found that reward prediction errors are likely to influence which brain activity gets replayed during offline states.  
   📎 [bioRXiv paper](https://www.biorxiv.org/content/10.1101/716290v2)  
   📎 [Code](https://github.com/EmmaRoscow/QlearningReplay)  
   📎 [Related code for identifying repeated patterns of brain activity ("replay") using a naive Bayes classifier](https://github.com/EmmaRoscow/ReplayBayesianDecoder)
