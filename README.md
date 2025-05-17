@@ -4,7 +4,7 @@ Hi there 👋
 
 I'm Emma, a machine learning engineer, data scientist and neuroscientist based in Barcelona ☀️
 
-I'm currently a Senior Machine Learning Scientist at [EcoVadis](ecovadis.com), building tools to help our sustainability analysts evaluate corporate sustainability around the world. I use a variety of techniques including time series modelling, causal inference, and model explainability to improve the way our business works.
+I'm currently a Senior Machine Learning Scientist at [EcoVadis](ecovadis.com), building tools to support the company purpose of guiding all companies toward a sustainable world via corporate sustainability evaluations. I use a variety of techniques including time series modelling, causal inference, and model explainability to improve the way our business works.
 
 
 ## AI for good
@@ -26,9 +26,10 @@ Take a look at some of the AI-for-good and data-for-good projects I've been invo
 
 I was awarded my PhD in Neural Dynamics in 2020, and completed two postdocs in computational neuroscience. My academic interests are in how the brain uses "downtime" (sleep, and rest when otherwise not actively engaged in behaviour) to generate spontaneous activity that supports interesting cognitive phenomena such as learning, forgetting, and generalising. These are also some of the big challenges in machine learning at the moment too: while techniques that are known to work in deep neural networks can serve as hypotheses for biological computational brain function, understanding better how nature has solved such problems can inspire more efficient machine learning algorithms.
 
-* In my PhD I used reinforcement learning models to understand how the brain "at rest" (sleeping, or quietly resting) contributes to offline learning and memory processes. I found that reward prediction errors are likely to influence which brain activity gets replayed during offline states. (An update to the preprint is forthcoming.)  
-  📎 [bioRXiv paper](https://www.biorxiv.org/content/10.1101/716290v1.abstract)  
-  📎 [Code for identifying repeated patterns of brain activity ("replay") using naive Bayes classifier](https://github.com/EmmaRoscow/ReplayBayesianDecoder)
+* In my PhD I used reinforcement learning models to understand how the brain "at rest" (sleeping, or quietly resting) contributes to offline learning and memory processes. I found that reward prediction errors are likely to influence which brain activity gets replayed during offline states.
+  📎 [bioRXiv paper](https://www.biorxiv.org/content/10.1101/716290v2)  
+  📎 [Code for parameter optimisation and reactivation analysis used in the paper](https://github.com/EmmaRoscow/QlearningReplay)
+  📎 [Code for identifying repeated patterns of brain activity ("replay") using a naive Bayes classifier](https://github.com/EmmaRoscow/ReplayBayesianDecoder)
 
 * Inspired by the surprising links between reinforcement learning in brains and reinforcement learning as a branch of artificial intelligence, I also published a paper on how researchers in both fields might benefit from the advances in the other field.  
   📎 [arXiv paper](https://arxiv.org/abs/2109.10034)
@@ -49,5 +50,6 @@ This is the immodest part. Some of these awards are now quite old, but I appreci
 
 ## Contact
 ✉ [Email](mailto:roscowemma@gmail.com)  
-🔵 [LinkedIn](https://www.linkedin.com/in/emmaroscow/)  
+🔵 [LinkedIn](https://www.linkedin.com/in/emmaroscow/)
+🦋 [Bluesky](https://bsky.app/profile/emmaroscow.bsky.social)
 🐦 [X (Twitter)](https://twitter.com/EmmaRoscow)
