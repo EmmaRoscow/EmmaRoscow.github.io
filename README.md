@@ -28,8 +28,8 @@ I was awarded my PhD in Neural Dynamics in 2020, and completed two postdocs in c
 
 * In my PhD I used reinforcement learning models to understand how the brain "at rest" (sleeping, or quietly resting) contributes to offline learning and memory processes. I found that reward prediction errors are likely to influence which brain activity gets replayed during offline states.
   📎 [bioRXiv paper](https://www.biorxiv.org/content/10.1101/716290v2)  
-  📎 [Code for parameter optimisation and reactivation analysis used in the paper](https://github.com/EmmaRoscow/QlearningReplay)
-  📎 [Code for identifying repeated patterns of brain activity ("replay") using a naive Bayes classifier](https://github.com/EmmaRoscow/ReplayBayesianDecoder)
+  📎 [Code](https://github.com/EmmaRoscow/QlearningReplay)  
+  📎 [Related code for identifying repeated patterns of brain activity ("replay") using a naive Bayes classifier](https://github.com/EmmaRoscow/ReplayBayesianDecoder)
 
 * Inspired by the surprising links between reinforcement learning in brains and reinforcement learning as a branch of artificial intelligence, I also published a paper on how researchers in both fields might benefit from the advances in the other field.  
   📎 [arXiv paper](https://arxiv.org/abs/2109.10034)
