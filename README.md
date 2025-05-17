@@ -50,6 +50,6 @@ This is the immodest part. Some of these awards are now quite old, but I appreci
 
 ## Contact
 ✉ [Email](mailto:roscowemma@gmail.com)  
-🔵 [LinkedIn](https://www.linkedin.com/in/emmaroscow/)
-🦋 [Bluesky](https://bsky.app/profile/emmaroscow.bsky.social)
+🔵 [LinkedIn](https://www.linkedin.com/in/emmaroscow/)  
+🦋 [Bluesky](https://bsky.app/profile/emmaroscow.bsky.social)  
 🐦 [X (Twitter)](https://twitter.com/EmmaRoscow)
