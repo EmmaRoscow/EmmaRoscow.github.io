@@ -6,6 +6,8 @@ I'm Emma, a machine learning engineer, data scientist and neuroscientist based i
 
 I'm currently a Senior Machine Learning Scientist at [EcoVadis](ecovadis.com), building tools to support the company purpose of guiding all companies toward a sustainable world via corporate sustainability evaluations. I use a variety of techniques including time series modelling, causal inference, and model explainability to improve the way our business works.
 
+→ See [what I’m reading](/reading)
+
 
 ## AI for good
 
