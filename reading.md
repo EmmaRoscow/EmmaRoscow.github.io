@@ -2,7 +2,7 @@
 
 ## 2025-09
 
-- **A neural manifold view of the brain**, Perich et al. (2025), Nature Neuroscience ([link](https://rdcu.be/ex8hW)<br> <br>
+- **A neural manifold view of the brain**, Perich et al. (2025), Nature Neuroscience ([link](https://rdcu.be/ex8hW))<br> <br>
   An accessible and comprehensive overview of one of the topics that made me excited to study neuroscience (when I read Miguel Nicolelis's book *Beyond Boundaries*, long before my PhD). The authors make a convincing argument that neural manifolds solve the tricky problem of what to do with all the data we can now record thanks to recent developments in neurophysiological recording technologies: they offer a human-interpretable link between large amounts of low-level data and abstracted phenomena such as behaviour.<br> <br>
   *Tags:* computational-neuroscience<br>
 
@@ -17,5 +17,6 @@
   Found via Luiza Jarovsky's [AI governance newsletter](https://www.luizasnewsletter.com/).<br> <br>
   Solow-Niederman highlights some privacy issues that can arise via the (often innocent) interaction between a user and a generative AI system, which she argues are often overlooked. For example, a user asked a chatbot to generate some code, ChatGPT generated a URL, and the URL happened to lead to a real photo of a person's face on imgur. I recall (and now can't find) a social media post from some months ago in which people asked ChatGPT (with "memory" enabled, such that it had access to a large volume of chats from the same user) where in the world it thought they were from and what it thought their native language was, and users reported pretty high accuracy. Is the way you speak to AI a privacy violation by itself?<br> <br>
   *Tags:* ai-governance
+
 
 
