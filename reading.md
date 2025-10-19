@@ -2,7 +2,11 @@
 
 ## 2025-10
 
-- **Empire of AI: Inside the reckless race for total domination**, Karen Jao, 2025<br> <br>
+- **A hardwired neural circuit for temporal difference learning**, Campbell et al. (2025), bioRxiv ([link](https://www.biorxiv.org/content/10.1101/2025.09.18.677203v2))<br> <br>
+  An impressive and important paper, finally confirming the widely-held theory that ventral striatum transmits value signals to the ventral tegmental area, which in turn relays a temporal-difference error signal back to the striatum. The authors do a series of minutely detailed experimental studies (in a total of 74 mice!) to identify the exact transformations that each cell type in the circuit performs, bridging the gap from computational algorithms which are common in this subfield to biological filters that implement them.<br> <br>
+  *Tags:* systems-neuroscience, reinforcement-learning<br>
+
+- **Empire of AI: Inside the reckless race for total domination**, Karen Hao, 2025<br> <br>
   A perfect complement to *Code Dependent* (see below), telling the other side of the story: a biography of OpenAI that illustrates how the oppression felt by people across the world arises from Silicon Valley. Ego, financial interests, ideological hubris and an attitude of empire-building - along with the huge capital available in Silicon Valley - enabled a small handful of people to develop large language models without the safety checks or ethical considerations that are usually expected of such new technologies. Like Murgia's message, Hao ends with a call for those affected by AI technologies to be included in its development from the start.<br> <br>
   *Tags:* ai-ethics<br>
 
@@ -23,6 +27,7 @@
   Found via Luiza Jarovsky's [AI governance newsletter](https://www.luizasnewsletter.com/).<br> <br>
   Solow-Niederman highlights some privacy issues that can arise via the (often innocent) interaction between a user and a generative AI system, which she argues are often overlooked. For example, a user asked a chatbot to generate some code, ChatGPT generated a URL, and the URL happened to lead to a real photo of a person's face on imgur. I recall (and now can't find) a social media post from some months ago in which people asked ChatGPT (with "memory" enabled, such that it had access to a large volume of chats from the same user) where in the world it thought they were from and what it thought their native language was, and users reported pretty high accuracy. Is the way you speak to AI a privacy violation by itself?<br> <br>
   *Tags:* ai-governance
+
 
 
 
