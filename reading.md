@@ -1,5 +1,11 @@
 # What I'm reading
 
+## 2026-01
+
+- **AI Agents in Data Science Competitions: Lessons from the Leaderboard**, Justin Chung Clark, DrivenData ([link](https://drivendata.co/blog/ai-agents-data-science-competitions))<br> <br>
+  Along with the better-known Kaggle, DrivenData is a platform that hosts competitions for data scientists to compete against each other to get the best metrics on some task and win prizes. This article describes the outcome of a simple experiment setting off several frontier models to participate with minimal prompting, and their conclusions reflect what I saw myself when I tried vibe-coding a solution to a data science competition (I didn't submit anything; I was just curious to see what the outcome would be). The models did pretty well, sometimes achieving well over the 90th percentile on the leaderboard compared to human competitors. But they took a lot of effort (tokens) to get there. What I saw was a kind of context entrenchment where the LLM persisted with a strategy or assumption that may not have worked, being unable to correct is course, which probably aligns with what the author describes as plateauing before reaching the top of the leaderboard. The experiment did not test what I would consider state of the art: in my view, that necessitates more sophisticated prompting or context engineering - but that is likely to be, in the near future, what standard data science work is.<br> <br>
+    *Tags:* data-science, software-engineering<br>
+
 ## 2025-11
 
 - **Large language mistake**, Benjamin Riley, The Verge ([link](http://theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems))<br> <br>
@@ -45,6 +51,7 @@
   Found via Luiza Jarovsky's [AI governance newsletter](https://www.luizasnewsletter.com/).<br> <br>
   Solow-Niederman highlights some privacy issues that can arise via the (often innocent) interaction between a user and a generative AI system, which she argues are often overlooked. For example, a user asked a chatbot to generate some code, ChatGPT generated a URL, and the URL happened to lead to a real photo of a person's face on imgur. I recall (and now can't find) a social media post from some months ago in which people asked ChatGPT (with "memory" enabled, such that it had access to a large volume of chats from the same user) where in the world it thought they were from and what it thought their native language was, and users reported pretty high accuracy. Is the way you speak to AI a privacy violation by itself?<br> <br>
   *Tags:* ai-governance
+
 
 
 
