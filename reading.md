@@ -1,6 +1,12 @@
 # What I'm reading
 
-## 2026-01
+## 2026-02
+
+- **The rise of tabular foundation models**, Christoph Molnar ([link](https://mindfulmodeler.substack.com/p/the-state-of-tabular-foundation-models))<br> <br>
+  This five-part blog series is a really good introduction to tabular foundation models, by someone who is optimistic about their current state and future advances. <br>
+  Although discussions about artificial general intelligence focus on LLMs and how well they replicate human performance on tasks, for me, much more interesting is this kind of foundation model which can spot patterns in anything, and give insights that otherwise wouldn't be possible - either with human expertise, models trained on limited data, or a combination of both. Being inherently text-based means LLMs are well designed for capturing, using and reproducing information that has been written by and for people, because we communicate with each other in natural language. But there is a whole world of information that is best captured in non-linguistic terms. And I suspect that we could get a lot more mileage from advanced models that can work intelligently with this kind of data, precisely because people are not so good at working with it: this is genuinely additive to human capabilities.
+  *Tags:* data-science<br>
+  
 
 - **AI Agents in Data Science Competitions: Lessons from the Leaderboard**, Justin Chung Clark, DrivenData ([link](https://drivendata.co/blog/ai-agents-data-science-competitions))<br> <br>
   Along with the better-known Kaggle, DrivenData is a platform that hosts competitions for data scientists to compete against each other to get the best metrics on some task and win prizes. This article describes the outcome of a simple experiment setting off several frontier models to participate with minimal prompting, and their conclusions reflect what I saw myself when I tried vibe-coding a solution to a data science competition (I didn't submit anything; I was just curious to see what the outcome would be). The models did pretty well, sometimes achieving well over the 90th percentile on the leaderboard compared to human competitors. But they took a lot of effort (tokens) to get there. What I saw was a kind of context entrenchment where the LLM persisted with a strategy or assumption that may not have worked, being unable to correct is course, which probably aligns with what the author describes as plateauing before reaching the top of the leaderboard. The experiment did not test what I would consider state of the art: in my view, that necessitates more sophisticated prompting or context engineering - but that is likely to be, in the near future, what standard data science work is.<br> <br>
@@ -51,6 +57,7 @@
   Found via Luiza Jarovsky's [AI governance newsletter](https://www.luizasnewsletter.com/).<br> <br>
   Solow-Niederman highlights some privacy issues that can arise via the (often innocent) interaction between a user and a generative AI system, which she argues are often overlooked. For example, a user asked a chatbot to generate some code, ChatGPT generated a URL, and the URL happened to lead to a real photo of a person's face on imgur. I recall (and now can't find) a social media post from some months ago in which people asked ChatGPT (with "memory" enabled, such that it had access to a large volume of chats from the same user) where in the world it thought they were from and what it thought their native language was, and users reported pretty high accuracy. Is the way you speak to AI a privacy violation by itself?<br> <br>
   *Tags:* ai-governance
+
 
 
 
