@@ -8,7 +8,7 @@ My work is about understanding how learning works, in biological brains and in a
 
 I spent my PhD and postdocs modelling how the brain learns from limited experience, using reinforcement learning, signal processing, and dynamical systems. Since then I've been building and deploying machine learning models in production across a range of industries and data types: 3D point clouds, satellite imagery, geospatial data, biometric time series, and enterprise tabular data. I'm interested in roles that combine rigorous ML research or engineering with real-world impact, particularly in areas where scientific data, sensor signals, or complex structured data require thoughtful modelling approaches.
 
-Currently, I'm an Applied ML Engineer at [Visible](makevisible.com), building algorithms to help people with energy-limiting chronic illnesses to pace and manage their condition.
+Currently, I'm an Applied ML Engineer at [Visible](http://makevisible.com), building algorithms to help people with energy-limiting chronic illnesses to pace and manage their condition.
 
 → See [what I’m reading](/reading)
 
@@ -22,8 +22,8 @@ I was awarded my PhD in Neural Dynamics in 2020, and completed two postdocs in c
   📎 [Code](https://github.com/EmmaRoscow/QlearningReplay)  
   📎 [Related code for identifying repeated patterns of brain activity ("replay") using a naive Bayes classifier](https://github.com/EmmaRoscow/ReplayBayesianDecoder)
 
-* Inspired by the surprising links between reinforcement learning in brains and reinforcement learning as a branch of artificial intelligence, I also published a paper on how researchers in both fields might benefit from the advances in the other field.  
-  📎 [arXiv paper](https://arxiv.org/abs/2109.10034)
+* Inspired by the surprising links between reinforcement learning in brains and reinforcement learning as a branch of artificial intelligence, I also wrote a review of how researchers in both fields might benefit from the advances in the other field.  
+  📎 [Paper](https://arxiv.org/abs/2109.10034)
 
 I have reviewed papers for Journal of Neuroscience, NeurIPS workshop on Biological and Artificial Reinforcement Learning, PLoS Computational Biology, and Cell Reports.
 
